@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Juraj Lazovy   juraj.lazovy@gmail.com    @juraj64
 
 # THANKS
 
