@@ -27,4 +27,8 @@ One more input for repeating.
 
 ### Copyright
 
+2020 Git.Training. All rights reserved.
+
+
+
 2020 Git.Training
